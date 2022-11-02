@@ -1,5 +1,7 @@
 # 优秀程度量表
 
+![](https://count.getloli.com/get/@excellencescale)
+
 (优秀程度总分=Part I 分数与Part II 分数的算术平均值）
 
 ## 优秀程度量表Part I（满分100分）
